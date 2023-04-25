@@ -1,4 +1,4 @@
-Flu Shot Learning competition: https://www.drivendata.org/competitions/66/flu-shot-learning/page/210/
+<b>Flu Shot Learning competition: </b> https://www.drivendata.org/competitions/66/flu-shot-learning/page/210/
 
 Dataset: We used the train dataset (of the competition) jointly prepared by the United States (US) National
 
